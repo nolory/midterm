@@ -1,0 +1,40 @@
+body {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 15px;
+}
+
+#content {
+  margin: 0 auto;
+  width:1000px;
+  padding-bottom: 100px
+}
+
+h1{
+  font-family: "Times New Roman", serif;
+  font-size: 50px;
+}
+
+h5{
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 0px
+}
+
+#byline{
+  font-size: 20px;
+  font-style: italic;
+}
+
+blockquote {
+font: 24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: #13c3eb;
+margin-left: 50px;
+margin-right: 50px;
+padding-left: 15px;
+padding-right: 15px;
+border-left: 4px solid #ccc;
+border-right: 4px solid #ccc;
+}
